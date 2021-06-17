@@ -11,7 +11,7 @@ git을 clone을 해준다.
 requirements.txt를 실행시켜 내부에 있는 library들을 설치해준다  
 
 ## 3. Download pretrained weights  
-이미 학습된 pretrained된 모델을 사용한다 
+이미 학습된 pretrained된 모델을 사용한다   
 ![image](https://user-images.githubusercontent.com/69920975/122344276-94da5700-cf81-11eb-8d9b-176d464a8e46.png)  
 
 ## 4. Customize Dataset  
