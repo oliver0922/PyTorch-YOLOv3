@@ -6,6 +6,7 @@ from utils.datasets import *
 from utils.augmentations import *
 from utils.transforms import *
 
+
 import os
 import sys
 import time
@@ -126,7 +127,7 @@ if __name__ == "__main__":
                 bbox = patches.Rectangle((x1, y1), box_w, box_h, linewidth=2, edgecolor=color, facecolor="none")
                 # Add the bbox to the plot
                 ax.add_patch(bbox)
-                # Add label
+                ## Add label
                 plt.text(
                     x1,
                     y1,
