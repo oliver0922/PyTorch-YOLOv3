@@ -30,6 +30,7 @@ from torch.autograd import Variable
 import torch.optim as optim
 
 
+
 if __name__ == "__main__":
     # Make parser instance and Read arguments for training, logging ...
     # Initialize argument parser
