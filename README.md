@@ -24,10 +24,10 @@ class 개수에 따라서 다음과 같이 숫자를 변경해준다(여기서�
 ![image](https://user-images.githubusercontent.com/69920975/122345125-7759bd00-cf82-11eb-946f-dfce0c0e98be.png)  
 
 아래와 같이 Dataset을 skitlearn의 train_test_split 함수를 사용하여 8:2로 train set과 test set으로 분할해준다.
-![image](https://user-images.githubusercontent.com/69920975/122345251-9e17f380-cf82-11eb-97c5-38b3b5910fa0.png)  
+![image](https://user-images.githubusercontent.com/69920975/122345251-9e17f380-cf82-11eb-97c5-38b3b5910fa0.png)    
 
 ## 6. Train  
-train.py를 아래와 같이 실행시킨다 
+train.py를 아래와 같이 실행시킨다  
 ![image](https://user-images.githubusercontent.com/69920975/122345843-4463f900-cf83-11eb-8561-ddaf6ed9e0ab.png)  
 
 ## 7. Tensorboard 관찰 
