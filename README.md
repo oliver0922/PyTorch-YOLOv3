@@ -6,11 +6,6 @@
 git을 clone을 해준다.   
 ![image](https://user-images.githubusercontent.com/69920975/122338777-1da1c480-cf7b-11eb-93e1-7a06963f8c27.png)
 
-
- https://public.roboflow.com/object-detection/self-driving-car/2  
- 
- roboflow에서 제공하는 udacity의 open dataset을 이용한다. 위의 링크에 접속하여 yolo darknet 파일을 받고  
- /content/gdrive/MyDrive/PyTorch-YOLOv3/data/custom/images 에 사진 , /content/gdrive/MyDrive/PyTorch-YOLOv3/data/custom/labels label 압축파일을 업로드한다  
  
 ## 2. Install Packages  
 requirements.txt를 실행시켜 내부에 있는 library들을 설치해준다  
